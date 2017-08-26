@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1494274490 source:c:\users\pablo emilio\documents\a_itc\2 semestre\oop\c++\connectfour\main.cpp
+	<iostream>
+	"Game.h"
+
+1494275377 source:c:\users\pablo emilio\documents\a_itc\2 semestre\oop\c++\connectfour\player.cpp
+	"Player.h"
+
+1494275377 c:\users\pablo emilio\documents\a_itc\2 semestre\oop\c++\connectfour\player.h
+	<stdlib.h>
+	<time.h>
+
+1494355369 source:c:\users\pablo emilio\documents\a_itc\2 semestre\oop\c++\connectfour\game.cpp
+	"Game.h"
+	<iostream>
+
+1494277515 c:\users\pablo emilio\documents\a_itc\2 semestre\oop\c++\connectfour\game.h
+	"Player.h"
+
